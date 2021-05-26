@@ -1,0 +1,11 @@
+services:
+  site_config_api.route_subscriber:
+    class: Drupal\site_config_api\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }
+
+  site_config_api.common:
+    class: Drupal\site_config_api\GetDataService
+    autowire: true
+    arguments:
+      ['@config.factory']

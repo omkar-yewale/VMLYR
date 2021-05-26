@@ -1,0 +1,10 @@
+# Extendig the system.site configuration
+system.site:
+  mapping:
+    # creating schema by using field name.
+    cityapikey:
+      type: label
+      label: 'city API Key'
+    weatherapikey:
+      type: label
+      label: 'weather API Key'

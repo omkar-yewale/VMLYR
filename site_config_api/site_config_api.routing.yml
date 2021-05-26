@@ -1,0 +1,6 @@
+site_config_api.defaults:
+  path: '/weather'
+  defaults:
+    _controller: '\Drupal\site_config_api\Controller\WeatherDataController::mainLink'
+  requirements:
+    _permission: 'access content'    

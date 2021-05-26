@@ -1,0 +1,6 @@
+site_config_api.defaults:
+  title: 'Weather'
+  route_name: site_config_api.defaults
+  description: 'Get Weather Data'
+  weight: 99
+  menu_name: main
