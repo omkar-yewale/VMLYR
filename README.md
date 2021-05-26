@@ -4,12 +4,12 @@
 CONTENTS OF THIS FILE
 ---------------------
 
- * Introduction
- * Requirements
- * Installation
- * Configuration
- * Resources
- * Other folder information
+ * [Introduction](https://github.com/omkar-yewale/VMLYR/blob/main/README.md#introduction)
+ * [Requirements](https://github.com/omkar-yewale/VMLYR/blob/main/README.md#requirements)
+ * [Installation](https://github.com/omkar-yewale/VMLYR/blob/main/README.md#installation)
+ * [Configuration](https://github.com/omkar-yewale/VMLYR/blob/main/README.md#configuration)
+ * [Resources](https://github.com/omkar-yewale/VMLYR/blob/main/README.md#resources)
+ * [Other folder information](https://github.com/omkar-yewale/VMLYR/blob/main/README.md#other-folder-information)
  
  INTRODUCTION
 ------------
@@ -47,7 +47,8 @@ CONFIGURATION
     3. Add the APK keys and update the configuration.
     
  * After updating configuration visit this URL: /weather (in menu section weather menu is added)
- Here,
+
+Here,
 The system can get your IP address.
 
 Based on this address using Apistack API it will get your current city location.
